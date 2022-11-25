@@ -28,3 +28,5 @@ print (e.strip())
 print (a.split())
 f = "a:b:c:d"
 print (f.split(':'))
+odd = [1 ,3 ,5,7,9]
+print (odd)
